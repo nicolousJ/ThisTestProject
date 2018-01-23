@@ -8,6 +8,7 @@
 
 //ok thank you for trusting me and give consideration to join join your team
 
+// hey check this out
 
 
 public function posted_at($id){
