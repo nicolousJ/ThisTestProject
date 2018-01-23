@@ -4,6 +4,8 @@
 
 // provide the created_at column of the post table and reference the diffForHumans() method;
 
+// haaaaaaaaaaaaaaaaa
+
 
 
 public function posted_at($id){
