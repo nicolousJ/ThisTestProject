@@ -6,6 +6,8 @@
 
 //  this is how to collaborate on the git project
 
+//ok thank you for trusting me and give consideration to join join your team
+
 
 
 public function posted_at($id){
