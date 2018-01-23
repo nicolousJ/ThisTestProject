@@ -4,7 +4,7 @@
 
 // provide the created_at column of the post table and reference the diffForHumans() method;
 
-// haaaaaaaaaaaaaaaaa
+//  this is how to collaborate on the git project
 
 
 
