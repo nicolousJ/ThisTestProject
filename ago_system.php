@@ -31,4 +31,5 @@ public function posted_at($id){
          $post->touch();
     return $post->created_at->diffForHumans();
 
+
     }
