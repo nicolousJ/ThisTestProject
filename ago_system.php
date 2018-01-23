@@ -19,7 +19,7 @@ public function posted_at($id){
 
 // provide the created_at column of the comment table and reference the diffForHumans() method;
 
-
+// here sime one can make any changes to the file and commit it
 
     public function commented_at($id){
 
