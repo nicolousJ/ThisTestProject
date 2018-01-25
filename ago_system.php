@@ -9,7 +9,7 @@
 //ok thank you for trusting me and give consideration to join join your team
 
 
-
+///uhgui bjrhg rthi 
 public function posted_at($id){
 
         $post = Post::find($id);
